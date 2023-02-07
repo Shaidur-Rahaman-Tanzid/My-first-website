@@ -1,0 +1,17 @@
+*{
+    background-color: bisque;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+h1, h2 {
+    color: rgb(63, 63, 63);
+}
